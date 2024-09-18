@@ -1,16 +1,67 @@
-## Hi there 👋
+<!-- Header Section -->
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Avinda+Udeshika!;" />
+</h1>
+<h3 align="center"><font face="Arial">Passionate Software Engineering Student | Building Innovative Solutions in the Digital World.</font></h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AvindaUdeshika&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
-<!--
-**AvindaUdeshika/AvindaUdeshika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- GIF -->
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
-Here are some ideas to get you started:
+<!-- Languages and Tools Section -->
+<h3 align="left"><font size="+2" face="Verdana">About me:</font></h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning
+
+- 🧑‍🎓 I’m an Undergraduate at **NIBM**
+
+- 💬 Developing Cutting-Edge Projects with Java and Spring Boot
+
+- 📫 How to reach me **avindaudeshika.au@gmail.com**
+  
+
+#### Programming Language Stack
+<p align="left">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" title="java" width="40" height="40"/> 
+</p>
+
+#### Framework Stack
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springboot" title="springboot" width="40" height="40"/> 
+</p>
+
+#### Database Stack
+<p align="left">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" title="mysql" width="40" height="40"/>  
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" title="mongodb" width="40" height="40"/> 
+</p>
+
+#### Editor / IDE I ♥
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="intellij" title="intellij" width="40" height="40"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/netbeans-1.svg" alt="netbeans" title="netbeans" width="40" height="40"/> 
+</p>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=AvindaUdeshika&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=AvindaUdeshika&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AvindaUdeshika&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<!-- Contact Section -->
+<h3 align="center"><font size="+2" face="Verdana">Contact me:</font></h3>
+<div align="center"> 
+  <a href="mailto:avindaudeshika.au@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/ravindu-weerasinghe-681656317/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</div>
